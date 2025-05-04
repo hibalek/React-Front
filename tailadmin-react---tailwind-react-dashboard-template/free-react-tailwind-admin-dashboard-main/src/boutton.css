@@ -1,0 +1,10 @@
+.fc-addRdvButton-button {
+    background-color: #3b82f6; /* Bleu clair équivalent à bg-blue-500 */
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+  }
+  .fc-addRdvButton-button:hover {
+    background-color: #2563eb; /* bg-blue-600 */
+  }
