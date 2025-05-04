@@ -156,7 +156,7 @@ const ListModal = React.memo(({
                 {item.lastVisit && <p className="text-xs text-gray-500 mt-1">Dernière visite: {item.lastVisit}</p>}
               </div>
               <button className="text-blue-600 text-sm font-medium hover:underline whitespace-nowrap">
-                Voir profil
+                see profil
               </button>
             </li>
           ))}
