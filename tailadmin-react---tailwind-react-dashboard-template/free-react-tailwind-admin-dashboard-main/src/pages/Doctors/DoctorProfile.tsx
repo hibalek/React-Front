@@ -495,7 +495,7 @@ const Sidebar = React.memo(({
 // Composant Principal
 const DoctorProfile = () => {
   const [doctor, setDoctor] = useState<DoctorProfileData>({
-    fullName: "Dr. Adrar Ahlem Lemia Hiba",
+    fullName: "Dr. Adrar Ahlem",
     specialty: " Medecin Nutritionniste",
     profileImage: "/doctor-avatar.jpg",
     bannerImage: "/doctor-banner.jpg",
